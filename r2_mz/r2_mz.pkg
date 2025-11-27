@@ -1,4 +1,6 @@
-D 'DEA': Data envelopment analysis
+D 'r2_mz': McKelvey & Zavoina's R2 for multilevel logistic regression and random effects logit and probit models Use r2_mz With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F r2_mz.ado
+F r2_mz.sthlp
+F r2_mz_var_u.mata
+F r2_mz_var_u.mo
